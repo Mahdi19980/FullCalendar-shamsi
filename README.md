@@ -1,6 +1,6 @@
 # FullCalendar-shamsi
 
-تقویم فول کلندر فارسی شده. کامل 
+تقویم فول کلندر فارسی شده.  Persian (Shamsi) FullCalendar for React + Next.js 15
 
 این محصول تماماً با react+next.js15  نوشته شده و با tailwindcss استایل دهی شده است . 
 
